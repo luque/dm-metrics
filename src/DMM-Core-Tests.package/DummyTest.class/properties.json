@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SUnitTest",
+	"category" : "DMM-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DummyTest",
+	"type" : "normal"
+}
