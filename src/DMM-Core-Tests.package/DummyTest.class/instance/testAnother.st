@@ -1,3 +1,5 @@
 tests
 testAnother
-self assert: true
+| stability |
+stability := DMMStabilityMetrics new.
+	self assert: stability isNotNil 
