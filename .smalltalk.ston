@@ -5,5 +5,12 @@ SmalltalkCISpec {
       #directory : 'src',
       #platforms : [ #pharo ]
     }
-  ]
+  ],
+  #testing : {
+    #coverage : {
+      #packages : [ 'DMM-Core' ],
+      #onWarningLog : true,
+      #useLatestMetacello : true
+    }
+  }
 }
