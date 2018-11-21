@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "SUnitTest",
+	"super" : "TestCase",
 	"category" : "DMM-Core-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -8,6 +8,6 @@
 	"instvars" : [
 		"fixturePackages"
 	],
-	"name" : "DMMFixturesBaseTest",
+	"name" : "DMMAbstractFixturesTest",
 	"type" : "normal"
 }

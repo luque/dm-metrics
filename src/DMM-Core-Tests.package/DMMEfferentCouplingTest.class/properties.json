@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "RafaelLuque 11/21/2018 14:54",
-	"super" : "DMMFixturesBaseTest",
+	"super" : "DMMAbstractFixturesTest",
 	"category" : "DMM-Core-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
