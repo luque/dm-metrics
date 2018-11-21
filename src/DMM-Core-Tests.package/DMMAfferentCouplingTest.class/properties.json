@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "DMMEfferentCouplingTest",
+	"name" : "DMMAfferentCouplingTest",
 	"type" : "normal"
 }

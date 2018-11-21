@@ -1,5 +1,5 @@
 tests
 testEmptyPackage
-	| packageA |
-	packageA := self createPackage: 'PA'.
-	self assert: (DMMStabilityMetrics onPackage: packageA) efferentCoupling equals: 0
+	| emptyPackage |
+	emptyPackage := self createPackage: 'PEmpty'.
+	self assert: (DMMStabilityMetrics onPackage: emptyPackage) efferentCoupling equals: 0

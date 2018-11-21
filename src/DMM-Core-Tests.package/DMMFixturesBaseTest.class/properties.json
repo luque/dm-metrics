@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SUnitTest",
+	"category" : "DMM-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fixturePackages"
+	],
+	"name" : "DMMFixturesBaseTest",
+	"type" : "normal"
+}

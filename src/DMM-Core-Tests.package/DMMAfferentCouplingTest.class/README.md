@@ -1,0 +1,1 @@
+I represent the unit tests for the calculation of the afferent coupling metric (Ca).

@@ -1,0 +1,1 @@
+I represent unit tests for the calculation of the  efferent coupling metric (Ce).
