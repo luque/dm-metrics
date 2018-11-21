@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DMMAbstractFixturesTest",
+	"category" : "DMM-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DMMMainSequenceTest",
+	"type" : "normal"
+}

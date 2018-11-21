@@ -1,3 +1,3 @@
 accessing
-package: aPackage
-package := aPackage 
+package: aRPackage
+	package := aRPackage 
