@@ -1,0 +1,1 @@
+I represent the unit tests for the calculation of the abstractness metric for a given package.

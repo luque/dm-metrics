@@ -1,4 +1,4 @@
-public api
+public - metrics
 instability
 	"This metric has a range [0,1]:
 	    0 indicates a maximally stable package. 

@@ -1,3 +1,3 @@
 instance creation
 defaultExcludedSystemPackages
-^ #( #'Kernel-Objects' )
+	^ {#'Kernel-Objects'} asOrderedCollection 

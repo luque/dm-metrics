@@ -17,6 +17,10 @@ Public API and Key Messages:
     - efferentCouplings
     - instability
 
-One simple example is simply gorgeous:
- 
-Implementation Points:
+Some  examples of usage:
+
+    (DMMStabilityMetrics onPackageNamed: 'Collections-Sequenceable') afferentCoupling. 
+
+    ((DMMStabilityMetrics onPackageNamed: 'Collections-Sequenceable')
+        addNonVolatilePackageNames: { #'Collections-Tests-Arrayed'})
+        afferentCoupling.

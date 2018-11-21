@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DMM-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package",
+		"excludedNonVolatilePackages"
+	],
+	"name" : "DMMAbstractMetrics",
+	"type" : "normal"
+}

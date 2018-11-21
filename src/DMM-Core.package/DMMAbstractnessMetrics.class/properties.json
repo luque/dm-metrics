@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "RafaelLuque 11/21/2018 17:27",
+	"commentStamp" : "RafaelLuque 11/21/2018 17:56",
 	"super" : "DMMAbstractMetrics",
 	"category" : "DMM-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "DMMStabilityMetrics",
+	"name" : "DMMAbstractnessMetrics",
 	"type" : "normal"
 }
