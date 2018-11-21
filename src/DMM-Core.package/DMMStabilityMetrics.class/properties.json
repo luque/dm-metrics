@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "RafaelLuque 11/21/2018 11:37",
 	"super" : "Object",
 	"category" : "DMM-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"package",
+		"excludedNonVolatilePackages"
+	],
 	"name" : "DMMStabilityMetrics",
 	"type" : "normal"
 }
