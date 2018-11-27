@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DMM-Visualizations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packages",
+		"packageMetrics",
+		"packageAssociations",
+		"classAssociations"
+	],
+	"name" : "DMMPackageDependencyGraph",
+	"type" : "normal"
+}
