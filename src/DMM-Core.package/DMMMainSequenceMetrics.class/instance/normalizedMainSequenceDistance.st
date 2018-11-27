@@ -1,4 +1,4 @@
-public - api
+public - metrics
 normalizedMainSequenceDistance
 	"This metric is much more convenient than the mainSequenceDistance since it ranges from [0, 1].
 	Zero indicates that the package is directly on the main sequence.

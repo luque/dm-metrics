@@ -7,10 +7,12 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"packages",
-		"packageMetrics",
+		"stabilityMetrics",
+		"abstractnessMetrics",
+		"mainSequenceMetrics",
 		"packageAssociations",
 		"classAssociations"
 	],
-	"name" : "DMMPackageDependencyGraph",
+	"name" : "DMMPackageGroupVisualizations",
 	"type" : "normal"
 }

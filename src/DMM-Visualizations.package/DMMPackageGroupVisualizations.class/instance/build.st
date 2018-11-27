@@ -1,11 +1,10 @@
-accessing
+building
 build
 	packageAssociations := OrderedCollection new.
-	self packageMetrics
+	self stabilityMetrics
 		inject: packageAssociations
 		into: [ :assocs :metrics | 
 			assocs
 				addAll: metrics afferentPackageAssocs;
 				addAll: metrics efferentPackageAssocs;
-				yourself ].
-	
+				yourself ]

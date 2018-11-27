@@ -1,12 +1,14 @@
 {
 	"commentStamp" : "RafaelLuque 11/21/2018 17:27",
-	"super" : "DMMAbstractMetrics",
+	"super" : "DMMAbstractPackageMetrics",
 	"category" : "DMM-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"excludedNonVolatilePackages"
+		"excludedNonVolatilePackages",
+		"afferentAssocs",
+		"efferentAssocs"
 	],
 	"name" : "DMMStabilityMetrics",
 	"type" : "normal"

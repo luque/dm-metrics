@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "RafaelLuque 11/21/2018 18:38",
-	"super" : "DMMAbstractMetrics",
+	"super" : "DMMAbstractPackageMetrics",
 	"category" : "DMM-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],

@@ -8,6 +8,6 @@
 	"instvars" : [
 		"package"
 	],
-	"name" : "DMMAbstractMetrics",
+	"name" : "DMMAbstractPackageMetrics",
 	"type" : "normal"
 }
