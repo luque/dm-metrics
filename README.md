@@ -55,7 +55,7 @@ To compute the dependency metrics for a collection of packages you can execute t
     (DMMPackageGroupVisualizations onPackages: packages) build open
 ```
 
-This code will show an inspector with the following tabs:
+This code will show you an inspector on the `DMMPackageGroupVisualizations` with the following tabs:
 
 **DM Metrics**
 
