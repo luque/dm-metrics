@@ -57,14 +57,14 @@ To compute the dependency metrics for a collection of packages you can execute t
 
 This code will show an inspector with the following tabs:
 
-** DM Metrics **
+**DM Metrics**
 
 ![Inspector on DMMPackageGroupVisualizations - DM Metrics Tab](docs/Inspector_DMMPackageGroupVisualizations_Metrics_Tab.png)
 
-** Distances to Main Sequence **
+**Distances to Main Sequence**
 
 ![Inspector on DMMPackageGroupVisualizations - Distances to Main Sequence Tab](docs/Inspector_DMMPackageGroupVisualizations_MainSequence_Tab.png)
 
-** Package Dependencies **
+**Package Dependencies**
 
-![Inspector on DMMPackageGroupVisualizations - Package Dependencies Tab](docs/Inspector_DMMPackageGroupVisualizations_Graph_Tab.png)
+![Inspector on DMMPackageGroupVisualizations - Package Dependencies Tab](docs/Inspector_DMMPackageVisualizations_Graph_Tab.png)
