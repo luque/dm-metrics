@@ -51,7 +51,20 @@ Note that you can replace the #master by another branch as #development or a tag
 To compute the dependency metrics for a collection of packages you can execute the following in a Playground:
 
 ```Smalltalk
-packages := RPackageOrganizer default packages select: [:p | 'FileSystem*' match: p name].
-(DMMPackageGroupVisualizations onPackages: packages) build open
+    packages := RPackageOrganizer default packages select: [:p | 'ProfStef*' match: p name].
+    (DMMPackageGroupVisualizations onPackages: packages) build open
 ```
 
+This code will show an inspector with the following tabs:
+
+** DM Metrics **
+
+![Inspector on DMMPackageGroupVisualizations - DM Metrics Tab](docs/Inspector_DMMPackageGroupVisualizations_Metrics_Tab.png)
+
+** Distances to Main Sequence **
+
+![Inspector on DMMPackageGroupVisualizations - Distances to Main Sequence Tab](docs/Inspector_DMMPackageGroupVisualizations_MainSequence_Tab.png)
+
+** Package Dependencies **
+
+![Inspector on DMMPackageGroupVisualizations - Package Dependencies Tab](docs/Inspector_DMMPackageGroupVisualizations_Graph_Tab.png)
