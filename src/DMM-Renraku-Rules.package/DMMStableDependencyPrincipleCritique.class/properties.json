@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ReTrivialCritique",
+	"category" : "DMM-Renraku-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dependentPackage",
+		"fromInstability",
+		"toInstability"
+	],
+	"name" : "DMMStableDependencyPrincipleCritique",
+	"type" : "normal"
+}

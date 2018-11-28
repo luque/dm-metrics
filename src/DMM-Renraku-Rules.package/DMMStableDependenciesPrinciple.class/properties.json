@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "RafaelLuque 11/27/2018 16:53",
+	"super" : "ReAbstractRule",
+	"category" : "DMM-Renraku-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"StabilityMetrics"
+	],
+	"instvars" : [ ],
+	"name" : "DMMStableDependenciesPrinciple",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+A package should depend in the direction of stability (SDP).
